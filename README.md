@@ -1,4 +1,4 @@
-# Bagian D: Scripting & automation
+Scripting & automation
 
 | File | Isi |
 |---|---|
