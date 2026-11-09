@@ -1,0 +1,23 @@
+# Contoh IOC dari insiden FIN-WS-047 + entri invalid untuk tes validasi
+198.51.100.37
+185.220.101.4
+203.0.113.9
+10.10.30.11
+cdn-update-sync[.]net
+cdn-update-sync.example
+invoice-portal[.]co
+hxxps://invoice-portal[.]co/INV-2291.docm
+microsoft.com
+44d88612fea8a8f36de82e1278abb02f
+3395856ce81f2b7382dee72602f798b642f14140
+275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f
+8.8.8.8
+9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+
+# invalid
+999.10.10.1
+10.10.20
+-badhost.com
+not_a_domain
+abc123
+zzzz0000zzzz0000zzzz0000zzzz0000

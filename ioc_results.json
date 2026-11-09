@@ -1,0 +1,93 @@
+[
+  {
+    "ioc": "198.51.100.37",
+    "type": "ipv4",
+    "score": 0,
+    "verdict": "clean",
+    "note": ""
+  },
+  {
+    "ioc": "185.220.101.4",
+    "type": "ipv4",
+    "score": 13,
+    "verdict": "malicious",
+    "note": ""
+  },
+  {
+    "ioc": "203.0.113.9",
+    "type": "ipv4",
+    "score": 0,
+    "verdict": "clean",
+    "note": ""
+  },
+  {
+    "ioc": "10.10.30.11",
+    "type": "ipv4",
+    "score": 0,
+    "verdict": "clean",
+    "note": ""
+  },
+  {
+    "ioc": "cdn-update-sync.net",
+    "type": "domain",
+    "score": 0,
+    "verdict": "clean",
+    "note": ""
+  },
+  {
+    "ioc": "cdn-update-sync.example",
+    "type": "domain",
+    "score": null,
+    "verdict": "unknown",
+    "note": "HTTP 400"
+  },
+  {
+    "ioc": "invoice-portal.co",
+    "type": "domain",
+    "score": 0,
+    "verdict": "clean",
+    "note": ""
+  },
+  {
+    "ioc": "microsoft.com",
+    "type": "domain",
+    "score": 0,
+    "verdict": "clean",
+    "note": ""
+  },
+  {
+    "ioc": "44d88612fea8a8f36de82e1278abb02f",
+    "type": "md5",
+    "score": 88,
+    "verdict": "malicious",
+    "note": ""
+  },
+  {
+    "ioc": "3395856ce81f2b7382dee72602f798b642f14140",
+    "type": "sha1",
+    "score": 88,
+    "verdict": "malicious",
+    "note": ""
+  },
+  {
+    "ioc": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",
+    "type": "sha256",
+    "score": 88,
+    "verdict": "malicious",
+    "note": ""
+  },
+  {
+    "ioc": "8.8.8.8",
+    "type": "ipv4",
+    "score": 1,
+    "verdict": "suspicious",
+    "note": ""
+  },
+  {
+    "ioc": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+    "type": "sha256",
+    "score": 0,
+    "verdict": "clean",
+    "note": ""
+  }
+]

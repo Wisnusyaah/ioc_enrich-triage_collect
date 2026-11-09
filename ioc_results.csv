@@ -1,0 +1,14 @@
+ioc,type,score,verdict,note
+198.51.100.37,ipv4,0,clean,
+185.220.101.4,ipv4,13,malicious,
+203.0.113.9,ipv4,0,clean,
+10.10.30.11,ipv4,0,clean,
+cdn-update-sync.net,domain,0,clean,
+cdn-update-sync.example,domain,,unknown,HTTP 400
+invoice-portal.co,domain,0,clean,
+microsoft.com,domain,0,clean,
+44d88612fea8a8f36de82e1278abb02f,md5,88,malicious,
+3395856ce81f2b7382dee72602f798b642f14140,sha1,88,malicious,
+275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f,sha256,88,malicious,
+8.8.8.8,ipv4,1,suspicious,
+9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08,sha256,0,clean,
